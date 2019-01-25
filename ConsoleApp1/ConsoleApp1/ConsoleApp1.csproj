@@ -46,6 +46,8 @@
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="role.cs" />
+    <Compile Include="role2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
